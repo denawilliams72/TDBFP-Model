@@ -1,2 +1,2 @@
 # TDBFP-Model
-TDBFP Model running on PPi3
+TDBFP Model running on RPi3
